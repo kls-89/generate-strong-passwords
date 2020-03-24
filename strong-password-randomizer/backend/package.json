@@ -1,0 +1,29 @@
+{
+  "name": "strong-password-generator",
+  "version": "1.0.0",
+  "description": "Web App that generates unique strong passwords.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kls-89"
+  },
+  "keywords": [
+    "password",
+    "express",
+    "web",
+    "dev"
+  ],
+  "author": "Keenan Leonard-Solis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
